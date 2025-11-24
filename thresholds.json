@@ -1,0 +1,16 @@
+{
+  "default_threshold": 0.5,
+  "per_animal": {
+    ".ipynb": 0.5,
+    "Default": 0.5,
+    "Elephants": 0.45,
+    "GiantSquirrel": 0.6,
+    "Human": 0.6,
+    "Human1": 0.95,
+    "Parrot": 0.25,
+    "Peacock1": 0.3,
+    "Porcupine": 0.5,
+    "Rabbit": 0.5,
+    "Toque_Macaque": 0.65
+  }
+}
